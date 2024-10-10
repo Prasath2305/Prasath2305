@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 **I'm Prasath! I'm passionate about coding and love to immerse myself in solving problems through technology. When I'm not working on projects or honing my skills, I enjoy playing video games to unwind and challenge myself in a different way. Collaboration is something I truly value, as it not only brings together diverse perspectives but also drives innovation and creativity. Whether it's working on exciting new projects or brainstorming ideas with others, I'm always open to connecting and sharing knowledge. Let's build something great together!**
 
-![Working GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4bW9rdTRvZjU2MDZnYTg3c2M0NmJxNXgxZ2VjdmdyZm16bHN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIzEUA4a5hGDHRgy9P/giphy.webp)
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4bW9rdTRvZjU2MDZnYTg3c2M0NmJxNXgxZ2VjdmdyZm16bHN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIzEUA4a5hGDHRgy9P/giphy.webp" alt="Working GIF" style="width:100%; height:auto;">

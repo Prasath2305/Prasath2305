@@ -19,27 +19,4 @@ Here are some ideas to get you started:
 
 ![Working GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4bW9rdTRvZjU2MDZnYTg3c2M0NmJxNXgxZ2VjdmdyZm16bHN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIzEUA4a5hGDHRgy9P/giphy.webp)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body, html {
-      margin: 0;
-      padding: 0;
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-    }
-    img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-  </style>
-</head>
-<body>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4bW9rdTRvZjU2MDZnYTg3c2M0NmJxNXgxZ2VjdmdyZm16bHN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIzEUA4a5hGDHRgy9P/giphy.webp">
-</body>
-</html>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4bW9rdTRvZjU2MDZnYTg3c2M0NmJxNXgxZ2VjdmdyZm16bHN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIzEUA4a5hGDHRgy9P/giphy.webp" alt="Working GIF" style="width:100%; height:auto;">

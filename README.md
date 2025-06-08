@@ -36,5 +36,3 @@ I'm passionate about coding and love to immerse myself in solving problems throu
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4bW9rdTRvZjU2MDZnYTg3c2M0NmJxNXgxZ2VjdmdyZm16bHN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIzEUA4a5hGDHRgy9P/giphy.webp" alt="Working GIF" style="width:100%; height:auto;">
-
